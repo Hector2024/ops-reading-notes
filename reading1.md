@@ -10,9 +10,9 @@ Growth Mindset - How can i keep a groeth mindset
 3. this
 
 Tools to use
-1.friends
-2.Instructors
-3.TA's
-4.Slack
-5.Canvas
-6.Zoom
+1. friends
+2. Instructors
+3. TA's
+4. Slack
+5. Canvas
+6. Zoom
