@@ -6,6 +6,8 @@
 
 1. Why does it matter and how does it relate?
 
+- Building a PC completely matters when we are in the tech field! You cannot go into battle and not know the basics of what you are working with! It relates because we have been tearing apart and putting our Lab machines back together, it is good to know what parts you are messing with.
+
 2. Which is better in a CPU, more cores or higher speed? Under which circumstances is that true? How many CPU cores does a computer need?
 
 - More cores = higher speeds when it comes to the CPU, if you want a faster CPU it's going to need more cores. "if it has multiple cores, it can divide the task and complete the work quickly. So, we can say that more CPU cores mean better performance." (Yusuf@TWC, 2022)
@@ -19,7 +21,7 @@
 
 4. Think about others with a background similar to yours. How would you explain to them the key parts of a computer, in a way they’d best connect with?
 
--There are 8 key parts to a PC. The CPU, motherboard, long-term storage, RAM, graphics card, the power supply, and the case. The CPU is the brain it does all the thinking and processes things like touch/sound/clicks etc. the motherboard is what everything is going to plug into so the parts can talk to each other. long-term storage is where you will save things like photos, game data, and projects. RAM is short-term data that helps you run more than one thing without slowing down your computer. Your graphics card is what puts images on your screen. The power supply plugs into the motherboard and gives everything power to turn on. And finally, the case! It is the house; it holds everything in a nice container at protects it from outside harm.
+- There are 8 key parts to a PC. The CPU, motherboard, long-term storage, RAM, graphics card, the power supply, and the case. The CPU is the brain it does all the thinking and processes things like touch/sound/clicks etc. the motherboard is what everything is going to plug into so the parts can talk to each other. long-term storage is where you will save things like photos, game data, and projects. RAM is short-term data that helps you run more than one thing without slowing down your computer. Your graphics card is what puts images on your screen. The power supply plugs into the motherboard and gives everything power to turn on. And finally, the case! It is the house; it holds everything in a nice container at protects it from outside harm.
 
 ## Things I want to know more about
 
