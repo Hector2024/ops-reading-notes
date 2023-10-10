@@ -30,7 +30,7 @@
 - Could you build a PC without a case and suspend the parts somehow?
 ## Resources
 
-- https://www.cgdirector.com/cpu-motherboard-compatibility/  (For CPU compatibility information)
+- https://www.cgdirector.com/cpu-motherboard-compatibility/   (For CPU compatibility information)
 - https://www.thewindowsclub.com/do-more-cpu-cores-mean-better-performance  (for the CPU info and quote)
 - https://www.wikihow.com/Build-a-Computer  (for the reading and general knowledge)
 - https://www.pinterest.com/pin/566890671842477001/ (picture of the key parts to PC while I explain)
