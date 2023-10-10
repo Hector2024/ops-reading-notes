@@ -36,7 +36,7 @@ It also runs some tests and helps the hardware start upon turning on. 
 
 - What kind of personalization settings can I make in BIOS?
 
-##Resources
+## Resources
 
 https://www.youtube.com/watch?v=LGz0Io_dh_I     (Used video to understand the CMOS better)
 https://www.learncomputerscienceonline.com/bios/     (Used for general info and quoted for the reading)
