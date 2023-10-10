@@ -14,7 +14,7 @@
 - BIOS is "software on hardware" (Learn Computer Science, 2023) that helps the hardware communicate with your operating system to help the computer turn on and run correctly.   
 It also runs some tests and helps the hardware start upon turning on. 
 
-- It is like waking up in the morning, getting ready, and getting to work where you will start your day. The BIOS is all the things you do to get ready before getting to work. Waking up, brushing your teeth, changing, eating, driving, etc. 
+- It is like waking up in the morning, getting ready, and getting to work where you will start your day. The BIOS is all the things you do before getting to work. Waking up, brushing your teeth, changing, eating, driving, etc. 
  
 3. What is the “Power On Self-Test”?
 
