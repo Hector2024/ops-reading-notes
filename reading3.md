@@ -30,11 +30,11 @@ It also runs some tests and helps the hardware start upon turning on. 
 
 ## Things I want to know more about
 
-- Can I replace the CMOS battery while the PU is on in order to not lose data?
+- Can I replace the CMOS battery while the PC is on in order to not lose data?
 
 - How do I know when the battery is low?
 
-- What kind of personalization settings can I make in BIOS?
+- How do the personalization settings I make in BIOS affect the PC?
 
 ## Resources
 
