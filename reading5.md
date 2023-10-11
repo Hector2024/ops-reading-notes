@@ -25,6 +25,8 @@
 
 5. Explain what Linux is, using anything except English.
 
+![image](https://github.com/Hector2024/ops-reading-notes/assets/147181270/3307d484-0ebd-4ac5-83f5-c6f4160aa3dc)
+
 
 ## Things I want to know more about
 
