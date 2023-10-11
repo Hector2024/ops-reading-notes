@@ -36,7 +36,7 @@
 
 8. What happened when Cisco replaced the Linux-based firmware with the VxWorks platform?
 
-- It made it difficult to flash with open source leading to protests from cutomers.
+- It made it difficult to flash with open source leading to protests from customers.
 
 9. Why doesn’t the WRT54GL model need to be modified to abide by the new FCC rules?
 
