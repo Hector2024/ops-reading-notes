@@ -48,11 +48,11 @@
 
 ## Things I want to know more about
 
--Why does the FCC have that regulation?
+- Why does the FCC have that regulation?
 - Why did they change from Linux to begin with?
--How many more years will this thing last?
+- How many more years will this thing last?
 
 ## Resources
 
-https://arstechnica.com/information-technology/2016/07/the-wrt54gl-a-54mbps-router-from-2005-still-makes-millions-for-linksys/ 
+https://arstechnica.com/information-technology/2016/07/the-wrt54gl-a-54mbps-router-from-2005-still-makes-millions-for-linksys/  
 (General knowledge and quoted for reading)
