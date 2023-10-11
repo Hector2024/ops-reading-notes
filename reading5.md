@@ -11,7 +11,7 @@
 2. Explain the terms “shell”, “terminal”, “cli”, and “command prompt”. Why are these still used today, when we have graphical interfaces?
 
 - "shell", "terminal", and "command prompt" mean the same thing. It is a text interface to the computer.
-- They are used for the power, flexibility, speed and efficiency the the command prompt allows for.
+- They are used for the power, flexibility, speed and efficiency the the command prompt allows for and not everything has a GUI.
   
 3. What are the commands to change directories, list the file’s contents and rename/move files?
 
