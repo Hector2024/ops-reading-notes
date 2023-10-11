@@ -6,6 +6,7 @@
 
 1. why this topic matters as it relates to what you are studying in this module.
 
+- We are going to configure and explore our router. It is important to know of the most famous one, how it came to be and why it's still around.
 
 2. What makes the Linksys WRT54GL famous?
 
