@@ -19,6 +19,7 @@
 
 4. What are relative and absolute paths? What is special about starting with a ~ (tilde) or a ‘/’ character in the path?
 
+- Absoulute path will take you back to your home directory and a relative path will move you forward or backwards of where you are.
 - "using “/” at the start of your path means “starting from the root directory”." (Canonical, 2023)
 - "Using the tilde character (”~”) at the start of your path similarly means “starting from my home directory”." (Canonical, 2023)
 
