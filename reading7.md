@@ -4,7 +4,7 @@
 
 ### Reading #7
 
-<center>SSH Protocol<center>
+SSH Protocol
 
 1. What is the Secure Shell (SSH) Protocol?
 
@@ -32,7 +32,7 @@
 
 - SFTP is SSH's file transfer protocol
 
-<center>What is RDP? And how to use it<center>
+What is RDP? And how to use it
   
 1. What is Windows Remote Desktop Connection?
 
