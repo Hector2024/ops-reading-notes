@@ -12,7 +12,7 @@ SSH Protocol
 
 1. What is the Secure Shell (SSH) Protocol?
 
--SSH protocol is used so that you can securely remote into a computer over the web.
+- SSH protocol is used so that you can securely remote into a computer over the web.
 
 2. What are the typical uses of the SSH protocol?
 
@@ -34,7 +34,7 @@ SSH Protocol
 
 5. What is SFTP?
 
--SFTP is SSH's file transfer protocol
+- SFTP is SSH's file transfer protocol
 
 
 
