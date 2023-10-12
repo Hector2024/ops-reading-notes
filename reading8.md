@@ -4,6 +4,10 @@
 
 ### Reading #8
 
+why this topic matters as it relates to what you are studying in this module.
+
+- This topic matters and relates as we will be using ISO files not only for this course but throughout our career. It is also handy to know how to get an ISO file for things like games and OS
+
 What is an ISO file?: Only read sections 1.1 - 1.4 inclusively.
 
 1. What is an ISO File?
