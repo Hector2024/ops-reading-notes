@@ -4,6 +4,10 @@
 
 ### Reading #7
 
+Why this topic matters as it relates to what you are studying in this module.
+
+- This topic matters because we as ops proffesionals will be remoting in to things and it is important to know how it works if we are going to be using it constantly.
+
 SSH Protocol
 
 1. What is the Secure Shell (SSH) Protocol?
