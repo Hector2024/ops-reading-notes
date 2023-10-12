@@ -6,13 +6,13 @@
 
 Why this topic matters as it relates to what you are studying in this module.
 
-- This topic matters because we as ops proffesionals will be remoting in to things and it is important to know how it works if we are going to be using it constantly.
+- This topic matters because we as ops professionals will be remoting into things and it is important to know how it works if we are going to be using it constantly.
 
 SSH Protocol
 
 1. What is the Secure Shell (SSH) Protocol?
 
-- SSH protocol is used so that you can securely remote into a computer over the web.
+-SSH protocol is used so that you can securely remote into a computer over the web.
 
 2. What are the typical uses of the SSH protocol?
 
@@ -26,15 +26,15 @@ SSH Protocol
 
 3. How does the SSH protocol work?
 
--It has a server and a client. The computer reaches out to the server using a "public key" to make sure its talking to the server, then they make or agree upon a mutual "key". Once that happens the protocol protects the traffic between the client and server.
+- It has a server and a client. The computer reaches out to the server using a "public key" to make sure its talking to the server, then they make or agree upon a mutual "key". Once that happens the protocol protects the traffic between the client and server.
 
 4. How is the data kept safe when transmitted between the SSH client and server?
 
-- Before the the client and the server are connected they agree "on the symmetric encryption algorithm to be used and generate the encryption key that will be used." (SSH, 1996) and the protocal also protects the transmission using hash algorithms.
+- Before the client and the server are connected they agree "on the symmetric encryption algorithm to be used and generate the encryption key that will be used." (SSH, 1996) and the protocol also protects the transmission using hash algorithms.
 
 5. What is SFTP?
 
-- SFTP is SSH's file transfer protocol
+-SFTP is SSH's file transfer protocol
 
 
 
@@ -42,11 +42,11 @@ What is RDP? And how to use it
 
 1. What is Windows Remote Desktop Connection?
 
-- Remote desktop connection is a tool made for windows that helps us remote into another computer.
+- Remote desktop connection is a tool made for Windows that helps us remote into another computer.
 
 2. What is RDP?
 
-- RDP is a windows specific protocol that supports their remote desktop connection tool.
+- RDP is a Windows specific protocol that supports their remote desktop connection tool.
 
 3. What is the RDP port number?
 
@@ -54,22 +54,18 @@ What is RDP? And how to use it
 
 ## Things I want to know more about
 
-- How did we get Windows to work with Linux since it's a windows only program
+- How did we get Windows to work with Linux since it's a Windows only program?
 - Why that specific port number?
-- How can we remotley turn on a machine?
+- How can we remotely turn on a machine?
 
 ## Resources
 
-https://www.ssh.com/academy/ssh/protocol
-(general information and quoted for readings)
+https://www.ssh.com/academy/ssh/protocol (general information and quoted for readings)
 
-https://www.comparitech.com/net-admin/what-is-rdp/
-(general information and quoted for readings)
+https://www.comparitech.com/net-admin/what-is-rdp/ (general information and quoted for readings)
 
-https://chat.openai.com/c/97bc976b-6438-4c98-93ff-6a7de8fe9bcc
-(used to understand SSH Protocol)
-Conversation with ChatGPT 
+https://chat.openai.com/c/97bc976b-6438-4c98-93ff-6a7de8fe9bcc (used to understand SSH Protocol) Conversation with ChatGPT
 
-- ME: what is SSH protocol
+ME: what is SSH protocol
 
-- ChatGPT: SSH stands for Secure Shell, and it's a protocol used for securely connecting to and communicating with remote computers over an unsecured network, like the internet. It provides a secure way to access and manage remote devices or servers. Here are some key aspects of the SSH protoco
+ChatGPT: SSH stands for Secure Shell, and it's a protocol used for securely connecting to and communicating with remote computers over an unsecured network, like the internet. It provides a secure way to access and manage remote devices or servers. Here are some key aspects of the SSH protocol
