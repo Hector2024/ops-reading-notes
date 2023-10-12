@@ -32,8 +32,10 @@ SSH Protocol
 
 - SFTP is SSH's file transfer protocol
 
+
+
 What is RDP? And how to use it
-  
+
 1. What is Windows Remote Desktop Connection?
 
 - Remote desktop connection is a tool made for windows that helps us remote into another computer.
@@ -45,6 +47,12 @@ What is RDP? And how to use it
 3. What is the RDP port number?
 
 - "TCP/UDP port 3389" (comparitech, 2023)
+
+## Things I want to know more about
+
+- How did we get Windows to work with Linux since it's a windows only program
+- Why that specific port number?
+- How can we remotley turn on a machine?
 
 ## Resources
 
