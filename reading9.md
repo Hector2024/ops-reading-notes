@@ -12,7 +12,7 @@ Command Prompt: What it is and how to use it
 
 1. What is the Command Prompt?
 
-- The command prompt is a windows text based intefrace to connect with the computer via command lines.
+- The command prompt is a windows text based interfrace to connect with the computer via command lines.
 
 2. How do I access the Command Prompt?
 
@@ -34,8 +34,8 @@ Command Prompt: What it is and how to use it
 ## Things I want to know more about
 
 - Why are all 3 still around, can they not make one to do it all?
-- what other commands are there
-- how difficult is it to run two cmd applications
+- What other commands are there?
+- How difficult is it to run two cmd applications?
 
 ## Resources
 
