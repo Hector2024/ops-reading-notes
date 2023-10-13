@@ -2,7 +2,7 @@
 
 ## Ops Readings
 
-### Reading #8
+### Reading #
 
 why this topic matters as it relates to what you are studying in this module.
 
