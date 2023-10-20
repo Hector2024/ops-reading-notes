@@ -1,4 +1,4 @@
-# ops-reading-notes
+# ops102-reading-notes
 Ops reading notes Repo
 
 - [reading 1](reading1.md)
