@@ -1,5 +1,5 @@
 # ops102-reading-notes
-Ops reading notes Repo
+Ops 102 reading notes Repo
 
 - [reading 1](reading1.md)
 - [reading 2](reading2.md)
