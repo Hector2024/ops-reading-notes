@@ -13,7 +13,7 @@ Ops 102: Intro to Computer Operations
 
 Ops 201: Foundations of Computer Operations
 
-ops-201d14-reading-06.md
+- [AI Prep](prompt-engineering.md)
 
 Ops 301: Networking and Systems Administration
 
