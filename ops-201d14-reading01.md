@@ -4,23 +4,23 @@
 
 ### Reading #1
 
-- why this topic matters as it relates to what you are studying in this module.
- This topic is important as we will be doing a lot of trouble in this field and in this class inorder to identify and rectify our technical issues.
+1. why this topic matters as it relates to what you are studying in this module.
 
+- This topic is important as we will be doing a lot of trouble in this field and in this class inorder to identify and rectify our technical issues.
 
-1. What is the purpose of the Windows System Restore tool?
+2. What is the purpose of the Windows System Restore tool?
 
 - The purpose of the system restore tool is to “revert to a previous software, registry, and driver configuration” (Tim Fisher, 2022)
 
-2. How long does it usually take to use the System Restore tool in Windows?
+3. How long does it usually take to use the System Restore tool in Windows?
 
 - It is an estimated time of 10-30 minutes on average for a windows restore.
 
-3. How do you start a System Restore from the command prompt?
+4. How do you start a System Restore from the command prompt?
 
 - “Open Command Prompt, Type rstrui.exe in the window, and then press Enter, Follow the on-screen instructions to complete the system restore.” (Tim Fisher, 2023)
 
-4. What options are available if System Restore did not fix the problem?
+5. What options are available if System Restore did not fix the problem?
 
 - There are 2 options if restoring the system once did not work. You can either restore it to an even older version if one is available or you can undo the restore IF you did not restore it you did not do it from the safe mode.
 
