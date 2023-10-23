@@ -4,7 +4,7 @@
 
 ### Reading #1
 
-why this topic matters as it relates to what you are studying in this module.
+- why this topic matters as it relates to what you are studying in this module.
  This topic is important as we will be doing a lot of trouble in this field and in this class inorder to identify and rectify our technical issues.
 
 
