@@ -1,6 +1,6 @@
 # ops-reading-notes
 
-## Ops 102: Intro to Computer Operations
+### Ops 102: Intro to Computer Operations
 
 - [reading 1](ops-102d14-reading01.md)
 - [reading 2](ops-102d14-reading02.md)
@@ -12,12 +12,12 @@
 - [reading 8](ops-102d14-reading08.md)
 - [reading 9](ops-102d14-reading09.md)
 
-## Ops 201: Foundations of Computer Operations
+### Ops 201: Foundations of Computer Operations
 
 - [AI Prompt](prompt-engineering.md)
 
-## Ops 301: Networking and Systems Administration
+### Ops 301: Networking and Systems Administration
 
 
 
-## Ops 401: Cybersecurity Engineering
+### Ops 401: Cybersecurity Engineering
