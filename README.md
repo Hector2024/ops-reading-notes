@@ -15,7 +15,7 @@
 ### Ops 201: Foundations of Computer Operations
 
 - [AI Prompt](prompt-engineering.md)
-- [reading_1](ops-201d14-reading01.md)
+- [How to use System Restore](ops-201d14-reading01.md)
 - [What is Bash?](ops-201d14-reading01.md)
 ### Ops 301: Networking and Systems Administration
 
