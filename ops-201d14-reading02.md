@@ -7,6 +7,8 @@
 
 1. Why this topic matters as it relates to what you are studying in this module
 
+- It seems like bash is everywhere and that we will be using it to complete the assignments we have coming up in this course along with the courses we have coming up.
+
 2. What is the primary function of a shell in a computer’s operating system?
 
 - A shell in a compter’s OS is to run other applications through commands/CLI.
