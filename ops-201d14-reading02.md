@@ -37,5 +37,5 @@
 
 ## Resources
 
-What is Bash? | Opensource.com 
+[What is Bash? | Opensource.com](https://opensource.com/resources/what-bash) 
 (used for general understanding and quoted in reading)
