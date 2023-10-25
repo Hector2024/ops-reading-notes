@@ -22,3 +22,16 @@
 
 
 5. How do writing skills and critical thinking skills play a vital role in the work of help desk technicians?
+
+- - Writing is critical especially when you are trying to make sure the people you are trying to help understand what you are asking of them, it not only makes life easier for you but for everyone else as well. As for Critical thinking, it will come into play when we are trying to problem solve, help a difficult customer, or for something as simple as planning out your work day.
+
+## Things I want to know more about
+
+- Which sofskills do they look for most?
+- Are there ways to improve your softskills?
+- How can you verify your softskills?
+- Are softskills something you put on your resume?
+
+## Resources
+https://www.pearsonitcertification.com/articles/article.aspx?p=2260779&seqNum=5 
+(was used for general knowledge and understaning for the reding) 
