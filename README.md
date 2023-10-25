@@ -17,6 +17,8 @@
 - [AI Prompt](prompt-engineering.md)
 - [How to use System Restore](ops-201d14-reading01.md)
 - [What is Bash?](ops-201d14-reading02.md)
+- [Intro to Help Desk Support Roles](ops-201d14-reading03.md)
+
 ### Ops 301: Networking and Systems Administration
 
 
