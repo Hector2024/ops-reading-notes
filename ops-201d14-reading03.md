@@ -33,4 +33,4 @@
 
 ## Resources
 https://www.pearsonitcertification.com/articles/article.aspx?p=2260779&seqNum=5 
-(was used for general knowledge and understaning for the reding) 
+(was used for general knowledge and understdaning for the reding) 
