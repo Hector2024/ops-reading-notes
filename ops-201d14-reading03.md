@@ -20,10 +20,9 @@
 
 -  Security skills have become more important as time goes on due to the increasing attacks that are aimed at everyone, big or small.
 
-
 5. How do writing skills and critical thinking skills play a vital role in the work of help desk technicians?
 
-- - Writing is critical especially when you are trying to make sure the people you are trying to help understand what you are asking of them, it not only makes life easier for you but for everyone else as well. As for Critical thinking, it will come into play when we are trying to problem solve, help a difficult customer, or for something as simple as planning out your work day.
+-  Writing is critical especially when you are trying to make sure the people you are trying to help understand what you are asking of them, it not only makes life easier for you but for everyone else as well. As for Critical thinking, it will come into play when we are trying to problem solve, help a difficult customer, or for something as simple as planning out your work day.
 
 ## Things I want to know more about
 
