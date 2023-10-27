@@ -19,6 +19,7 @@
 - [What is Bash?](ops-201d14-reading02.md)
 - [Intro to Help Desk Support Roles](ops-201d14-reading03.md)
 - [How to Troubleshoot](ops-201d14-reading04.md)
+- [Microsoft Command Line Tools](ops-201d14-reading05.md)
 ### Ops 301: Networking and Systems Administration
 
 
