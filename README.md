@@ -21,6 +21,7 @@
 - [How to Troubleshoot](ops-201d14-reading04.md)
 - [Microsoft Command Line Tools](ops-201d14-reading05.md)
 - [Windows Security Center](ops-201d14-reading06.md)
+- [Should You Learn Power shell?](ops-201d14-reading07.md)
 ### Ops 301: Networking and Systems Administration
 
 
