@@ -8,7 +8,7 @@
 
 1. Why this topic matters as it relates to what you are studying
 
-- 
+- Powershell is becoming widley used and windows itself is used world wide. If we learn to use it, it will benifit us in the long term.
 
 2. What is the difference between Bash and PowerShell?
 
