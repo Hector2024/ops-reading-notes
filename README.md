@@ -11,6 +11,7 @@
 - [reading 7](ops-102d14-reading07.md)
 - [reading 8](ops-102d14-reading08.md)
 - [reading 9](ops-102d14-reading09.md)
+- [reading 9](ops-102d14-reading09.md)
 
 ### Ops 201: Foundations of Computer Operations
 
@@ -22,6 +23,8 @@
 - [Microsoft Command Line Tools](ops-201d14-reading05.md)
 - [Windows Security Center](ops-201d14-reading06.md)
 - [Should You Learn Power shell?](ops-201d14-reading07.md)
+- [Windows Registry Demystified](ops-201d14-reading08.md)
+
 ### Ops 301: Networking and Systems Administration
 
 
