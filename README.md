@@ -24,6 +24,7 @@
 - [Windows Security Center](ops-201d14-reading06.md)
 - [Should You Learn Power shell?](ops-201d14-reading07.md)
 - [Windows Registry Demystified](ops-201d14-reading08.md)
+- [So You Want to Write an SOP](ops-201d14-reading09.md)
 
 ### Ops 301: Networking and Systems Administration
 
