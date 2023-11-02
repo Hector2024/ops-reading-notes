@@ -4,7 +4,7 @@
 ## Ops Readings
 
 
-### Reading #8
+### Reading #9
 
 1. Why this topic matters as it relates to what you are studying
 
