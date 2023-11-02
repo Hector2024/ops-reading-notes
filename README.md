@@ -25,6 +25,7 @@
 - [Should You Learn Power shell?](ops-201d14-reading07.md)
 - [Windows Registry Demystified](ops-201d14-reading08.md)
 - [So You Want to Write an SOP](ops-201d14-reading09.md)
+- [What is Backup and Disaster Recovery and Why Do You Need It?](ops-201d14-reading10.md)
 
 ### Ops 301: Networking and Systems Administration
 

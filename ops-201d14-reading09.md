@@ -8,7 +8,7 @@
 
 1. Why this topic matters as it relates to what you are studying
 
-- 
+- This topic matters because we will be cyber security professionals. Which means that we have to know not only how to read SOPs but how to make them to keep everyone safe.
 
 2. What is a Standard Operating Procedure (SOP), and why is it important for an organization?
 
