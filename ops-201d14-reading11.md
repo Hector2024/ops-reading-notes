@@ -8,7 +8,8 @@
 
 1. Why this topic matters as it relates to what you are studying
 
-- 
+- SSDs are what most people are using and we will more than likely have to come in conntact with one sooner or later and it is going to be good knowledge to know.
+
 2. What are some common indicators that an SSD may be failing?
     
 -  Although it is not as noticeable since they do not display error codes you can tell by: 
