@@ -28,6 +28,7 @@
 - [What is Backup and Disaster Recovery and Why Do You Need It?](ops-201d14-reading10.md)
 - [SSD Data Recovery Best Practices](ops-201d14-reading11.md)
 - [Introduction to pfSense](ops-201d14-reading12.md)
+- [Importance of Virtualization in the Amazon EC2 Cloud](ops-201d14-reading13.md)
 
 ### Ops 301: Networking and Systems Administration
 
