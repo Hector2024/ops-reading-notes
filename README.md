@@ -27,6 +27,7 @@
 - [So You Want to Write an SOP](ops-201d14-reading09.md)
 - [What is Backup and Disaster Recovery and Why Do You Need It?](ops-201d14-reading10.md)
 - [SSD Data Recovery Best Practices](ops-201d14-reading11.md)
+- [Introduction to pfSense](ops-201d14-reading12.md)
 
 ### Ops 301: Networking and Systems Administration
 
