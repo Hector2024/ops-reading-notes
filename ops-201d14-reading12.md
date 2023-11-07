@@ -40,12 +40,12 @@
 
 6. Reflect on the importance of cultural awareness in the field of network security and administration. How might cultural differences influence decision-making and problem-solving when dealing with virtual routers and firewalls, like pfSense, in a global context?
 
-- Some culures might think it is a better and more ecologically sound to do something like the pfSense instead of spend money and other natural resources to get new unessicary equippment
+- Some cultures might think it is a better and more ecologically sound to do something like the pfSense instead of spend money and other natural resources to get new unnecessary equipment.
 
 ## Things I want to know more about
 
-- What is the benifit?
-- What customization does someone need that isn't offored regularly.
+- What is the benefit?
+- What customization does someone need that isn't offered regularly.
  
 ## Resources
 https://turbofuture.com/computers/Introduction-to-pfSense-An-Open-Source-Firewall-and-Router-Platform 
