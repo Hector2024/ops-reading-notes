@@ -30,6 +30,7 @@
 - [Introduction to pfSense](ops-201d14-reading12.md)
 - [Importance of Virtualization in the Amazon EC2 Cloud](ops-201d14-reading13.md)
 - [How to remove malware from your Windows PC](ops-201d14-reading14.md)
+- [What Google Learned From Its Quest to Build the Perfect Team](ops-201d14-reading14B.md)
 
 ### Ops 301: Networking and Systems Administration
 
