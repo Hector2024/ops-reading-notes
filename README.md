@@ -34,6 +34,7 @@
 
 ### Ops 301: Networking and Systems Administration
 
+- [Network Traffic Analysis with Wireshark](ops-301d14-reading01.md)
 
 
 ### Ops 401: Cybersecurity Engineering
