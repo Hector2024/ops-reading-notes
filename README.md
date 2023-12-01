@@ -38,5 +38,6 @@
 - [Network scanning with NMAP](ops-301d14-reading02.md)
 - [Network Segmentation](ops-301d14-reading03.md)
 - [Routing](ops-301d14-reading04.md)
+- [VPN Tunnel](ops-301d14-reading05.md)
 
 ### Ops 401: Cybersecurity Engineering
