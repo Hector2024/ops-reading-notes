@@ -35,4 +35,4 @@
 ## Resources
 
 https://www.geeksforgeeks.org/network-address-translation-nat/
-(Used for general undrestanding and quoted in the reading)
+(Used for general understanding and quoted in the reading)
