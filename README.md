@@ -41,5 +41,6 @@
 - [VPN Tunnel](ops-301d14-reading05.md)
 - [Network Address Translation](ops-301d14-reading06.md)
 - [Web Server Deployment](ops-301d14-reading07.md)
+- [RADIUS Authentication](ops-301d14-reading08.md)
 
 ### Ops 401: Cybersecurity Engineering
