@@ -43,5 +43,6 @@
 - [Web Server Deployment](ops-301d14-reading07.md)
 - [RADIUS Authentication](ops-301d14-reading08.md)
 - [Traffic Mirroring](ops-301d14-reading09.md)
+- [VPC](ops-301d14-reading10.md)
 
 ### Ops 401: Cybersecurity Engineering
