@@ -33,4 +33,4 @@ What’s the Difference Between Windows and Windows Server?
 ## Resources
 
 https://www.howtogeek.com/404763/whats-the-difference-between-windows-and-windows-server/
-(Used for general understandingin the reading)
+(Used for general understanding in the reading)
