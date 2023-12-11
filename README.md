@@ -44,5 +44,6 @@
 - [RADIUS Authentication](ops-301d14-reading08.md)
 - [Traffic Mirroring](ops-301d14-reading09.md)
 - [VPC](ops-301d14-reading10.md)
+- [Windows Server](ops-301d14-reading11.md)
 
 ### Ops 401: Cybersecurity Engineering
