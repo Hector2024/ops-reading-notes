@@ -45,5 +45,6 @@
 - [Traffic Mirroring](ops-301d14-reading09.md)
 - [VPC](ops-301d14-reading10.md)
 - [Windows Server](ops-301d14-reading11.md)
+- [Domain Controller](ops-301d14-reading12.md)
 
 ### Ops 401: Cybersecurity Engineering
