@@ -46,5 +46,6 @@
 - [VPC](ops-301d14-reading10.md)
 - [Windows Server](ops-301d14-reading11.md)
 - [Domain Controller](ops-301d14-reading12.md)
+- [Active Directory](ops-301d14-reading13.md)
 
 ### Ops 401: Cybersecurity Engineering
