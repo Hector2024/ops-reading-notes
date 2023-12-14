@@ -48,4 +48,6 @@
 - [Domain Controller](ops-301d14-reading12.md)
 - [Active Directory](ops-301d14-reading13.md)
 - [Group Policy](ops-301d14-reading14.md)
+- [Diversity & Inclusion in the Tech Industry](ops-301d14-reading14B.md)
+
 ### Ops 401: Cybersecurity Engineering
