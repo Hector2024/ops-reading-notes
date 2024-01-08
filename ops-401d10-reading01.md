@@ -4,7 +4,7 @@
 ## Ops Readings
 
 
-### Group Policy
+### The Ultimate Guide to SOC 2 Compliance
 
 1. Why this topic matters as it relates to what you are studying
 
