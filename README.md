@@ -53,4 +53,5 @@
 ### Ops 401: Cybersecurity Engineering
 
 - [The Growth Mindset](ops-401d10-prep_reading.md)
+- [The Ultimate Guide to SOC 2 Compliance](ops-401d10-reading01.md)
 
