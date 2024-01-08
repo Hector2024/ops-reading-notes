@@ -51,3 +51,6 @@
 - [Diversity & Inclusion in the Tech Industry](ops-301d14-reading14B.md)
 
 ### Ops 401: Cybersecurity Engineering
+
+- [The Growth Mindset](ops-401d10-prep_reading.md)
+
