@@ -55,4 +55,5 @@
 - [The Growth Mindset](ops-401d10-prep_reading.md)
 - [The Ultimate Guide to SOC 2 Compliance](ops-401d10-reading01.md)
 - [Cloud Security Principles and Frameworks](ops-401d10-reading02.md)
+- [Cyber Risk Analysis](ops-401d10-reading03.md)
 
