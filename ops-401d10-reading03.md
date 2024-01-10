@@ -8,19 +8,19 @@
 
 1. Why this topic matters as it relates to what you are studying
 
-- Being in a security anylist, we need to know what risks our stystems are and what tools are out there to help with that.
+- Being in a security analyst, we need to know what risks our systems are and what tools are out there to help with that.
 
 #### Security and Risk Management
 
 1. Consider a bank ATM that allows users to access bank account balances. What measures can the ATM incorporate to cover the principles of the CIA triad?
 
 - Confidentiality: They can make sure their customer data is protected by have their systems audited, patched, and updated. They can also have people check the machine itself for skimmers, cameras, and pin catchers.
-- Integrity: The machine can be fitted with tampering devices, alarms, cameras, and security gaurds.
-- Availibility: They can have UPS's at the ATMs incase of power flux or outage. They can have 24hr ATMs.
+- Integrity: The machine can be fitted with tampering devices, alarms, cameras, and security guards.
+- Availability: They can have UPS's at the ATMs in case of power flux or outage. They can have 24hr ATMs.
 
 2. Name three best practices that support the CIA triad.
 
-- Seperation of Duties
+- Separation ration of Duties
 - Mandatory Vacations
 - Job Rotation
 - Least Privilege
