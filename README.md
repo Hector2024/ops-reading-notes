@@ -57,3 +57,4 @@
 - [Cloud Security Principles and Frameworks](ops-401d10-reading02.md)
 - [Cyber Risk Analysis](ops-401d10-reading03.md)
 - [ Systems Hardening with CIS Standards](ops-401d10-reading04.md)
+- [Data file encryption](ops-401d10-reading06.md)
