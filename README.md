@@ -58,3 +58,4 @@
 - [Cyber Risk Analysis](ops-401d10-reading03.md)
 - [ Systems Hardening with CIS Standards](ops-401d10-reading04.md)
 - [Data file encryption](ops-401d10-reading06.md)
+- [Protecting Data at Rest with Device Encryption](ops-401d10-reading07.md)
