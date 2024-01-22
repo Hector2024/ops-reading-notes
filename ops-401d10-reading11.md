@@ -10,11 +10,11 @@
 
 - As cyber security specialists event management tools are important to learn and use.
 
-1. How would a security team benefit from implementing a SOAR solution?
+2. How would a security team benefit from implementing a SOAR solution?
 
 - A cyber security team could setup SOAR products to help automate some of their defenses in order to be faster and more available.
 
-2. Explain how a SOAR solution fits into the Incident Response process.
+3. Explain how a SOAR solution fits into the Incident Response process.
 
 - If teams implement the a SOAR solution response and identification could be faster. They would also be able to move their man power over to something else if needed
 

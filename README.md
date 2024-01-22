@@ -61,3 +61,4 @@
 - [Protecting Data at Rest with Device Encryption](ops-401d10-reading07.md)
 - [Public Key Infrastructure (PKI)](ops-401d10-reading09.md)
 - [Setting up Splunk SIEM](ops-401d10-reading11.md)
+- [What is a SOC](ops-401d10-reading12.md)
