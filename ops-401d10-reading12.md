@@ -10,16 +10,15 @@
 
 - This topic matters because SOCs are a big part of the cyber security world. Knowing what they are and how they operate is in our best interst
 
-
-1. What are three tasks which SOCs often perform?
+2. What are three tasks which SOCs often perform?
 
 - Monitor and manage, Analyze data, and Enforce security policies and procedures.
 
-2. Explain what a SIEM solution is and how the SOC utilizes it in non-technical terms.
+3. Explain what a SIEM solution is and how the SOC utilizes it in non-technical terms.
 
 - A siem is a system that helps you log, file, and organize data from your entire network in order to give you a better advantage at detecting data for a faster response
 
-3. How does the typical SOC team structure resemble the structure of an IT Help Desk.
+4. How does the typical SOC team structure resemble the structure of an IT Help Desk.
 
 - A soc team just like an IT team needs someone who monitors the network and someone who maintains the network. In a way a SOC team is just an IT team on a higher level
 
