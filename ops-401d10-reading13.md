@@ -8,7 +8,7 @@
 
 1. Why this topic matters as it relates to what you are studying
 
-- 
+- As a cyber security specialist you will more likely than not find yourself around a proxy server and will need to know what they are and how they work.
 
 2. What are the benefits of a forward proxy?
 
