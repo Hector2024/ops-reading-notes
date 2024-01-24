@@ -62,4 +62,5 @@
 - [Public Key Infrastructure (PKI)](ops-401d10-reading09.md)
 - [Setting up Splunk SIEM](ops-401d10-reading11.md)
 - [What is a SOC](ops-401d10-reading12.md)
-- [What is a SOC](ops-401d10-reading13.md)
+- [What is a reverse proxy?](ops-401d10-reading13.md)
+- [The Pros and Cons of Network Intrusion Detection Systems](ops-401d10-reading14.md)
