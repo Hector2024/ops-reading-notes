@@ -67,3 +67,4 @@
 - [Lessons Learned from the Capital One Data Breach](ops-401d10-reading16.md)
 - [What is a VPC](ops-401d10-reading17.md)
 - [Introduction to AWS CloudWatch](ops-401d10-reading18.md)
+- [What is Amazon GuardDuty?](ops-401d10-reading19.md)
