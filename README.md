@@ -68,4 +68,4 @@
 - [What is a VPC](ops-401d10-reading17.md)
 - [Introduction to AWS CloudWatch](ops-401d10-reading18.md)
 - [What is Amazon GuardDuty?](ops-401d10-reading19.md)
-- [[What is Amazon GuardDuty?](ops-401d10-reading19.md)](ops-401d10-reading26.md)
+- [Remote Code Execution](ops-401d10-reading26.md)
