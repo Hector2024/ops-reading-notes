@@ -69,3 +69,4 @@
 - [Introduction to AWS CloudWatch](ops-401d10-reading18.md)
 - [What is Amazon GuardDuty?](ops-401d10-reading19.md)
 - [Remote Code Execution](ops-401d10-reading26.md)
+- [Persistence](ops-401d10-reading27.md)
