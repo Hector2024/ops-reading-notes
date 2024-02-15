@@ -70,3 +70,5 @@
 - [What is Amazon GuardDuty?](ops-401d10-reading19.md)
 - [Remote Code Execution](ops-401d10-reading26.md)
 - [Persistence](ops-401d10-reading27.md)
+- [Log Clearing](ops-401d10-reading28.md)
+
