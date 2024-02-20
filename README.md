@@ -72,3 +72,6 @@
 - [Persistence](ops-401d10-reading27.md)
 - [Log Clearing](ops-401d10-reading28.md)
 - [Modeling a Web Application](ops-401d10-reading29.md)
+- [Malware Detection with YARA Rules](ops-401d10-reading31.md)
+- [Malware Traffic Analysis with Wireshark](ops-401d10-reading32.md)
+
