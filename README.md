@@ -76,4 +76,4 @@
 - [Malware Traffic Analysis with Wireshark](ops-401d10-reading32.md)
 - [Threat Hunting with Security Onion](ops-401d10-reading33.md)
 - [Forensics Investigation with Autopsy](ops-401d10-reading34.md)
-
+- [Cross-Site Scripting](ops-401d10-reading36.md)
