@@ -77,3 +77,5 @@
 - [Threat Hunting with Security Onion](ops-401d10-reading33.md)
 - [Forensics Investigation with Autopsy](ops-401d10-reading34.md)
 - [Cross-Site Scripting](ops-401d10-reading36.md)
+- [Getting Started with Zed Attack Proxy](ops-401d10-reading36.md)
+
