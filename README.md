@@ -79,3 +79,4 @@
 - [Cross-Site Scripting](ops-401d10-reading36.md)
 - [Getting Started with Zed Attack Proxy](ops-401d10-reading37.md)
 - [What is Burp Suite?]((ops-401d10-reading38.md))
+- [Understanding SQL Injection, Identification and Prevention](ops-401d10-reading39.md)
