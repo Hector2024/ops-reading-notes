@@ -81,3 +81,5 @@
 - [What is Burp Suite?](ops-401d10-reading38.md)
 - [Understanding SQL Injection, Identification and Prevention](ops-401d10-reading39.md)
 - [What is penetration testing?](ops-401d10-reading41.md)
+- [What is Mimikatz](ops-401d10-reading42.md)
+
