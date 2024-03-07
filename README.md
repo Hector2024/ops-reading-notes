@@ -83,3 +83,4 @@
 - [What is penetration testing?](ops-401d10-reading41.md)
 - [What is Mimikatz](ops-401d10-reading42.md)
 - [What is sniffing attack in system hacking?](ops-401d10-reading43.md)
+- [What is Metasploit]()
